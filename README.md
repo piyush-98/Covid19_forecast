@@ -1,2 +1,1 @@
-# arjunguptaa98-gmail.com
-Covid19_forecasing
+# Covid19_forecasing
